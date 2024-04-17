@@ -45,5 +45,4 @@ This is a Python application that parses resumes in PDF format and extracts key 
 - `likes.py`: Stores patterns and stopwords for text extraction.
 - `requirements.txt`: Lists all the required Python dependencies.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
